@@ -35,4 +35,6 @@ main{
 section{
     display: grid;
     grid-template: auto / 1fr 1fr 1fr;
+    gap: 16px;
+    
 }
