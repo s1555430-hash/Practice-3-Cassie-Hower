@@ -32,3 +32,7 @@ main{
     grid-column: span 4;
 }
 
+section{
+    display: grid;
+    grid-template: auto / 1fr 1fr 1fr;
+}
