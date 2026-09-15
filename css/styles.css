@@ -42,6 +42,10 @@ section{
     margin-top: 16px;
 }
 
+footer{
+    grid-column: span 5;
+}
+
 .pad{
     padding: 16px;
 }
