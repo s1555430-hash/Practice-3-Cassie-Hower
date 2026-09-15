@@ -46,6 +46,21 @@ footer{
     grid-column: span 5;
 }
 
+h1 {
+font-size: 36;
+}
+h2{
+font-size: 24;
+}
+
+h3{
+font-size: 18;
+margin-bottom: 8px;
+}
+
+p{
+margin-bottom: 8px;
+}
 .pad{
     padding: 16px;
 }
