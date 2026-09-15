@@ -2,7 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    border: 1px solid black;
+    
 }
 
 body {
@@ -61,10 +61,30 @@ margin-bottom: 8px;
 p{
 margin-bottom: 8px;
 }
-.pad{
-    padding: 16px;
-}
 
+.frame{
+    border: 6px solid #111;
+}
 .bg-red {
     background-color: #911717;
+    color: #ffffff;
+}
+
+.bg-blue{
+    background: #130a91;
+    color: #ffffff;
+}
+
+.bg-yellow{
+    background: #c5c207;
+    color: #111;
+}
+
+.bg-white{
+    background: #ebe7e7;
+    color: #111;
+}
+
+.pad{
+    padding: 16px;
 }
